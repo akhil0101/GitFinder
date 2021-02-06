@@ -1,1 +1,1 @@
-# GitFinder
+# GitHub Profile Finder
